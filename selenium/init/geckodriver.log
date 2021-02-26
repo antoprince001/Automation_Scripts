@@ -1,0 +1,16 @@
+1612949902665	geckodriver	INFO	Listening on 127.0.0.1:64547
+1612949905817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\anton\\AppData\\Local\\Temp\\rust_mozprofileTL2wGu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 25212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612949923421	Marionette	INFO	Listening on port 64555
+1612949924242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612949924417	Marionette	ERROR	[15] No reply from Marionette:Register
+[Parent 25212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612949939283	Marionette	INFO	Stopped listening on port 64555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
