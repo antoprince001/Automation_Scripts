@@ -6,3 +6,4 @@ Tools involved:
 * python
 * puppet
 * selenium
+* terraform
